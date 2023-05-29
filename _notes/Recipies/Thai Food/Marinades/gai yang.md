@@ -6,7 +6,7 @@ permalink: /notes
 
 feedformat: card
 
-title: new test
+title: gai yang
 
 feed: show
 
