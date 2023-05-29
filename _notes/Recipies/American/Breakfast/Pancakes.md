@@ -1,6 +1,19 @@
-# Pancakes
+---
 
-![[Pasted image 20220712024623.png]]
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
+# Pancakes
 
 
 ## Dry Ingredients

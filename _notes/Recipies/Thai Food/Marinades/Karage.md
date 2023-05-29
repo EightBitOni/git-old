@@ -1,6 +1,20 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
 # Karage "Japanese Fried Chicken"
 
-![[Pasted image 20220712023225.png]]
 
 - Chicken Thighs
 - 3 tbsp sake

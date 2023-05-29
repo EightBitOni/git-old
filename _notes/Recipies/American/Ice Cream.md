@@ -1,5 +1,20 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
 # Ice Cream
-![[Pasted image 20220712025214.png]]
+
 
 ## Vanilla Ice Cream
 - 1 1/2 cups whole milk

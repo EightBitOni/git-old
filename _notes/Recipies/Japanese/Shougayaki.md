@@ -1,5 +1,19 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
 # Shougayaki "Pork Ginger"
-![[Pasted image 20220712213546.png]]
 
 - 14 oz pork loin
 - 1 Piece of Ginger

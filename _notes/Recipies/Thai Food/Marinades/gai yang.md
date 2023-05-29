@@ -1,6 +1,19 @@
-# Gai Yang ( grilled chicken ) 
+---
 
-![[Pasted image 20220712024340.png]]
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
+# Gai Yang ( grilled chicken ) 
 
 
 # Maranade

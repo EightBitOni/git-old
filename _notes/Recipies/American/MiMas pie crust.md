@@ -1,3 +1,18 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
 # Pie Crust
 - 2 cups flour sifted
 - 1 teaspoon salt

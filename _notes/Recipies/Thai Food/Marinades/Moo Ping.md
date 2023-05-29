@@ -1,6 +1,20 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
 # Moo Ping
 
-![[Pasted image 20220712024451.png]]
 
 ## recipie 1
 

@@ -1,5 +1,20 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: new test
+
+feed: show
+
+---
+
+
 # Moo Yang
-![[Pasted image 20220712023802.png]]
+
 
 ## original recipie
 
