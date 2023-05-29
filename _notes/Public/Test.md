@@ -2,8 +2,8 @@
 ---
 title: Test
 date: 05-29-2022
-permalink: /credits
 format: list
+feed: show
 ---
 
 
