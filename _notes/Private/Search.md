@@ -13,4 +13,4 @@ feed: show
 ---
 
 
-this is just another test note
+Search here!
