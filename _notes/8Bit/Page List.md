@@ -4,7 +4,7 @@ layout: Post
 
 permalink: /notes/8Bit
 
-feedformat: list
+feedformat: card
 
 title: page list
 
