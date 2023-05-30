@@ -1,6 +1,6 @@
 ---
 
-layout: Post
+layout: list
 
 permalink: /notes/8Bit
 
