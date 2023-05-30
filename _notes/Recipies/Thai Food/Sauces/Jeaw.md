@@ -1,5 +1,20 @@
+---
+
+layout: Post
+
+permalink: /notes
+
+feedformat: card
+
+title: Jeaw
+
+feed: show
+
+---
+
+
+
 # Jeaw
-![[Pasted image 20220712024110.png]]
 
 ## recipie 1
 - 3 tsp fish sauce
