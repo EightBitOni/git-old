@@ -2,7 +2,7 @@
 
 layout: Post
 
-permalink: /post
+permalink: /ntoes/Recipies/Breakfast
 
 feedformat: card
 

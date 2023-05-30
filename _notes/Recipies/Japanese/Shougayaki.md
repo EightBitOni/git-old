@@ -2,11 +2,11 @@
 
 layout: Post
 
-permalink: /notes
+permalink: /notes/Recipies/Japanese
 
 feedformat: card
 
-title: new test
+title: Shougayaki
 
 feed: show
 

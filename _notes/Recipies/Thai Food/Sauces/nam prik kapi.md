@@ -1,5 +1,3 @@
-![[namprikkapi.jpeg]]
-
 
 
 # nam prik kapi
