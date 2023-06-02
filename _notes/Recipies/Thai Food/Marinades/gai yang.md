@@ -2,7 +2,7 @@
 
 layout: Post
 
-permalink: /notes/Recipies/Marinades
+permalink: /_notes/Recipies/Marinades
 
 feedformat: card
 

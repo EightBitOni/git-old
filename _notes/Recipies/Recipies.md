@@ -2,9 +2,9 @@
 
 layout: post
 
-permalink: /notes/Recipies/
+permalink: /_notes/Recipies/
 
-feedformat: list
+feedformat: card
 
 title: test list
 

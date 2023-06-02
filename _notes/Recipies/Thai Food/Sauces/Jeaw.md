@@ -2,7 +2,7 @@
 
 layout: Post
 
-permalink: /notes/Recipies/Sauces
+permalink: /_notes/Recipies/Sauces
 
 feedformat: card
 
