@@ -1,21 +1,19 @@
 ---
 
-layout: Post
+layout: list
 
 permalink: /notes/Recipies/
 
 feedformat: list
 
-title: list
+title: test list
 
 feed: show
 
 ---
 
-
-```dataview
-list 
-from "Recipies/Thai Food/Marinades"
-```
 [[gai yang]]
+
 [[Jeaw]]
+
+[[nam prik kapi]]
