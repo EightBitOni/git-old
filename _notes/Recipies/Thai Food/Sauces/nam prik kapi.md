@@ -1,4 +1,16 @@
+---
 
+layout: Post
+
+permalink: /_notes/Recipies/Sauces
+
+feedformat: card
+
+title: nam prik kapi
+
+feed: show
+
+---
 
 # nam prik kapi
 ## origanal writen recipe
