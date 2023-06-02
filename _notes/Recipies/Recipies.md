@@ -1,6 +1,6 @@
 ---
 
-layout: list
+layout: post
 
 permalink: /notes/Recipies/
 
