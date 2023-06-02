@@ -2,7 +2,7 @@
 
 layout: post
 
-permalink: /notes/Recipies/
+permalink: /notes/Zombie Notes/
 
 feedformat: card
 
@@ -11,14 +11,9 @@ title: test list
 feed: show
 
 ---
-
-[[gai yang]]
+this is a test post
 
 [[Jeaw]]
-
-[[nam prik kapi]]
-
-
-
-
+[[Spicy Mayo]]
+[[gai yang]]
 
