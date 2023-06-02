@@ -2,8 +2,6 @@
 
 layout: post
 
-permalink: /notes/Zombie Notes/
-
 feedformat: card
 
 title: test list
