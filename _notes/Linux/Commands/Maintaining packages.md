@@ -4,10 +4,7 @@ When developers wish to submit software to the community, they will submit it to
 
 When using the`ls`command on a Ubuntu 20.04 Linux machine, these files serve as the gateway/registry. 
 
-![[Pasted image 20221218233635.png]]
-
-
-![[Pasted image 20221218233645.png]]
+![[Pasted image 20221218233645 1.png]]
 
 
 Whilst Operating System vendors will maintain their own repositories, you can also add community repositories to your list! This allows you to extend the capabilities of your OS. Additional repositories can be added by using the `add-apt-repository` command or by listing another provider! For example, some vendors will have a repository that is closer to their geographical location.
@@ -30,12 +27,12 @@ So, to start, we need to add the GPG key for the developers of Sublime Text 3. (
 
 **2.1.** Let's create a file named **sublime-text.list** in **/etc/apt/sources.list.d** and enter the repository information like so:
 
-![[Pasted image 20221218233719.png]]
+
 
 
 **2.2.** And now use Nano or a text editor of your choice to add & save the Sublime Text 3 repository into this newly created file:
 
-![[Pasted image 20221218233732.png]]
+
 
 **2.3.** After we have added this entry, we need to update apt to recognise this new entry -- this is done using the `apt update` command
 
