@@ -1,3 +1,15 @@
+---
+
+layout: Post
+permalink: /notes/Linux/Commands
+categories: [food]
+tags: [linux,commands,terminal]
+feedformat: card
+title: cp mv edit create
+feed: show
+
+---
+
 ## Working with files
 
 
