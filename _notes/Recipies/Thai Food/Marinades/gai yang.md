@@ -1,13 +1,11 @@
 ---
 
 layout: Post
-
 permalink: /notes/Recipies/Marinades
-
+categories: [food]
+tags: [marinades,thai,food]
 feedformat: card
-
 title: gai yang
-
 feed: show
 
 ---
